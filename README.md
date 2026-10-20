@@ -16,6 +16,7 @@ I'm looking for an **Erasmus+ internship from February to May 2027** (512 hours,
 
 - [**employee-management-mvc**](https://github.com/sandrasanz12/employee-management-mvc): Java Swing desktop app to manage employees using the MVC pattern, with full CRUD and file persistence.
 - [**vallabici-uml-design**](https://github.com/sandrasanz12/vallabici-uml-design): analysis and UML design of a public bike rental system (team project).
+- [**ikea-usability-analysis**](https://github.com/sandrasanz12/ikea-usability-analysis): usability analysis of IKEA's website, with navigation review, a user test and responsive checks (team project).
 
 ### Currently learning
 
